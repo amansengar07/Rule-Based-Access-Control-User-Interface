@@ -53,12 +53,12 @@ The objective of this assignment is to showcase creativity, understanding, and t
 - **Others:**
   - Git (version control)
   - Postman (for API testing)
- 
-- **Screenshots:**
-  -![image](https://github.com/user-attachments/assets/b420f6b0-3135-49f5-8495-112112b0a375)
-  - ![image](https://github.com/user-attachments/assets/f46807aa-58b7-4ec7-8fdb-73f1fd431dcb)
-  - ![image](https://github.com/user-attachments/assets/741f6168-5d76-48d1-a1d3-9d1083f853e1)
-  - ![image](https://github.com/user-attachments/assets/5ed3803b-1596-4610-98d3-1ce75edc4ec4)
+
+## Screenshots:
+![image](https://github.com/user-attachments/assets/b420f6b0-3135-49f5-8495-112112b0a375)
+![image](https://github.com/user-attachments/assets/f46807aa-58b7-4ec7-8fdb-73f1fd431dcb)
+![image](https://github.com/user-attachments/assets/741f6168-5d76-48d1-a1d3-9d1083f853e1)
+![image](https://github.com/user-attachments/assets/5ed3803b-1596-4610-98d3-1ce75edc4ec4)
 
 
 
